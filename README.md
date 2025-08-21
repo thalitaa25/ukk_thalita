@@ -131,3 +131,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 SMK Thalita - info@smkthalita.sch.id
 
 Project Link: [https://github.com/yourusername/ukk-thalita](https://github.com/yourusername/ukk-thalita)
+# ukk_thalita
